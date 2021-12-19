@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{545CD94F-59CB-4AF4-B250-BBF2479E9FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{47AD923F-69C4-49EA-A2D8-95C078618FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545CD94F-59CB-4AF4-B250-BBF2479E9FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545CD94F-59CB-4AF4-B250-BBF2479E9FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545CD94F-59CB-4AF4-B250-BBF2479E9FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545CD94F-59CB-4AF4-B250-BBF2479E9FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AD923F-69C4-49EA-A2D8-95C078618FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AD923F-69C4-49EA-A2D8-95C078618FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AD923F-69C4-49EA-A2D8-95C078618FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AD923F-69C4-49EA-A2D8-95C078618FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B8BB86-4A56-49D1-9A91-1E23593D729B}
+	EndGlobalSection
+EndGlobal
